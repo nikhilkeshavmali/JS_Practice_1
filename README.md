@@ -52,6 +52,8 @@ cd mousemove-color-effect
 Open index.html in your browser.
 
 📸 Preview
+<img width="1918" height="866" alt="image" src="https://github.com/user-attachments/assets/1ed0b4d8-620e-4494-887b-2b5c436fb56d" />
+
 
 📜 License
 This project is free to use and open-source under the MIT License.
